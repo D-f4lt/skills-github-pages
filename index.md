@@ -1,5 +1,3 @@
----
-author: D-F4lt
-message: welcome to my world... again
----
-
+# chicken game:
+**dont look at the chicken**  
+<img src=".images/chicken.png"/>
